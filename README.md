@@ -1,1 +1,1 @@
-# infite1
+# InfiniteRunningGame
